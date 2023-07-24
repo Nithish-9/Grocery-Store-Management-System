@@ -1,10 +1,6 @@
 
 # Grocery Store Management System
 
-<a href="https://github.com/Nithish-9"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Nithish-9&style=flat-square" width="125"/></a>
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/Nithish-9/Restaurant-Management-System.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/Nithish-9/Restaurant-Management-System/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/Nithish-9/Restaurant-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Nithish-9/Restaurant-Management-System/issues)
 
 
 ## Project Description
@@ -37,17 +33,3 @@ The Grocery_backend folder houses a variety of SQL queries, including aggregate,
 ## Frontend Results for Input
 
 ![Screenshot (402)](https://github.com/Nithish-9/Grocery-Store-Management-System/assets/113118468/0ecaa7f3-e9b7-4566-a85d-514231c581b4)
-
-
-## Contributions Welcome
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
-
-If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
-
-## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/Nithish-9/Restaurant-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Nithish-9/Restaurant-Management-System/issues)
-
-If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
-
-
-Copyright (c) Nithish S.                                      
