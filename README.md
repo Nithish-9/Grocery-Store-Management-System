@@ -10,7 +10,7 @@
 ## Project Description
 **The Grocery Store Management System** aims to simplify the tracking and management of grocery items, employees responsible for managing those items, and customer purchases. To achieve this, a MySQL database is utilized as the foundation, providing a reliable platform to store all records securely. The system includes an application and a user-friendly GUI developed in HTML5, utilizing node.js to facilitate smooth functionality. By employing this system, accuracy is improved, and tracking and maintaining grocery item details become **more efficient and secure, ensuring a better shopping experience for customers and streamlined operations** for the store.
 
-***For complete details regarding the project you can refer to the detailed [DBMS PROJECT REPORT](https://github.com/Nithish-9/Restaurant-Management-System/blob/main/SRS.pdf).***
+***For complete details regarding the project you can refer to the detailed [DBMS PROJECT REPORT](https://github.com/Nithish-9/Grocery-Store-Management-System/blob/main/Grocery_Backend/DBMS_project_report.pdf).***
 
 ---
 
