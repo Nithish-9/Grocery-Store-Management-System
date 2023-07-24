@@ -30,10 +30,6 @@ Open the browser and type localhost:8080
 
 The Grocery_backend folder houses a variety of SQL queries, including aggregate, join, nested, and correlated queries, as well as set and normal queries. These queries are utilized within the database.js file as SQL string variables. By modifying the frontend interface, users can interact with the MySQL database through these queries, providing a seamless experience for managing grocery items, employees, and customer purchases.
 
-**Short version:**
-
-The Grocery_backend folder contains diverse SQL queries for the database.js file. By changing the frontend interface, users can interact with the MySQL database to manage grocery items, employees, and customer purchases.
-
 ## Frontend User Input
 
 ![Screenshot (403)](https://github.com/Nithish-9/Grocery-Store-Management-System/assets/113118468/9a0b19be-9312-4a07-bf9c-a2f5cc38ab30)
