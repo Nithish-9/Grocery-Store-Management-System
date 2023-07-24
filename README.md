@@ -14,20 +14,33 @@
 
 ---
 
-## How to 
+## How to run
 
 Download both the folders 
 
-Run the commnad npm install. 
+Open command promt from the folder Grocery_Frontend and run the commnad npm install. 
 
 Install all dependencies mentioned in the package.json file 
 
-Create database in MySQL by the name omnifood. 
+Create database in MySQL by the name grocery. 
 
-Run the backend_food.js . 
+Run the database.js file from the Grocery_Frontend . 
 
-Open the browser and type localhost:9000 
+Open the browser and type localhost:8080
 
+The Grocery_backend folder houses a variety of SQL queries, including aggregate, join, nested, and correlated queries, as well as set and normal queries. These queries are utilized within the database.js file as SQL string variables. By modifying the frontend interface, users can interact with the MySQL database through these queries, providing a seamless experience for managing grocery items, employees, and customer purchases.
+
+**Short version:**
+
+The Grocery_backend folder contains diverse SQL queries for the database.js file. By changing the frontend interface, users can interact with the MySQL database to manage grocery items, employees, and customer purchases.
+
+## Frontend User Input
+
+![Screenshot (403)](https://github.com/Nithish-9/Grocery-Store-Management-System/assets/113118468/9a0b19be-9312-4a07-bf9c-a2f5cc38ab30)
+
+## Frontend Results for Input
+
+![Screenshot (402)](https://github.com/Nithish-9/Grocery-Store-Management-System/assets/113118468/0ecaa7f3-e9b7-4566-a85d-514231c581b4)
 
 
 ## Contributions Welcome
@@ -41,4 +54,4 @@ If you find any bug in the code or have any improvements in mind then feel free 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 
-Copyright (c) 2022-present, Nithish S,  Software Engineering class of 2022                                      
+Copyright (c) Nithish S.                                      
